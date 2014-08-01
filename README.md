@@ -13,3 +13,7 @@ perl -ed 1
 | 5_functions_methods.pl| - Using functions and methods |
 | 6_classes.pl			| - Creating classes and use inheritance |
 | 7_libraries.pl		| - Using libraries |
+| 8_io.pl 				| - Read standard input and manipulate files |
+| 9_value_transform.pl	| - Value to string and string to value functions |
+| 10_0_importing_files.pl	| - Class and function for be exported |
+| 10_1_importing_files.pl	| - Class and module imported |

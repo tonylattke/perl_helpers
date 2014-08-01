@@ -7,6 +7,8 @@ while ($i < 5) {
 }
 
 # While with function break, which name in perl is last
+use boolean;
+
 print 'While with break', "\n";
 $i = 5;
 $result = 1;
