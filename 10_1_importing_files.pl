@@ -1,4 +1,4 @@
-require "10_0_importing_files.pl";
+require "10_0_importing_files.pm";
 
 ################################ Import and use modules #################################
 # Use a Class
